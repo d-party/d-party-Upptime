@@ -5,7 +5,11 @@ repo: d-party-Upptime # The name of this repository
 sites:
   - name: d-party
     url: https://d-party.net
-
+  - name: d-party - Chrome ウェブストア
+    url: https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc
+  - name: dアニメストア
+    url: https://animestore.docomo.ne.jp/animestore/tp_pc
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
