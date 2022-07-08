@@ -4,7 +4,7 @@
     "url": "https://d-party.net",
     "icon": "https://favicons.githubusercontent.com/d-party.net",
     "slug": "d-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 796,
     "timeMonth": 818,
     "timeYear": 818,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "d-party - Chrome ウェブストア",
