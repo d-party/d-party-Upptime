@@ -4,19 +4,19 @@
     "url": "https://d-party.net",
     "icon": "https://favicons.githubusercontent.com/d-party.net",
     "slug": "d-party",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 818,
-    "timeDay": 647,
-    "timeWeek": 796,
-    "timeMonth": 818,
-    "timeYear": 818,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 819,
+    "timeDay": 762,
+    "timeWeek": 806,
+    "timeMonth": 819,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2022-07-08": 0
+      "2022-07-08": 49
     }
   },
   {
