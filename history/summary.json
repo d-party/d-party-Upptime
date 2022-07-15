@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/d-party.net",
     "slug": "d-party",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
-    "time": 808,
-    "timeDay": 703,
-    "timeWeek": 739,
-    "timeMonth": 821,
-    "timeYear": 808,
+    "uptimeYear": "99.91%",
+    "time": 810,
+    "timeDay": 917,
+    "timeWeek": 772,
+    "timeMonth": 823,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2022-07-08": 49
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 157,
-    "timeWeek": 196,
-    "timeMonth": 187,
+    "timeDay": 212,
+    "timeWeek": 181,
+    "timeMonth": 186,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 777,
-    "timeWeek": 891,
-    "timeMonth": 1103,
-    "timeYear": 1100,
+    "time": 1099,
+    "timeDay": 1088,
+    "timeWeek": 922,
+    "timeMonth": 1102,
+    "timeYear": 1099,
     "dailyMinutesDown": {}
   }
 ]
