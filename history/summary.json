@@ -42,17 +42,19 @@
     "url": "https://animestore.docomo.ne.jp/animestore/tp_pc",
     "icon": "https://favicons.githubusercontent.com/animestore.docomo.ne.jp",
     "slug": "d",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1109,
-    "timeDay": 1406,
-    "timeWeek": 1166,
-    "timeMonth": 1137,
-    "timeYear": 1109,
-    "dailyMinutesDown": {}
+    "time": 1104,
+    "timeDay": 1069,
+    "timeWeek": 1112,
+    "timeMonth": 1125,
+    "timeYear": 1104,
+    "dailyMinutesDown": {
+      "2022-08-28": 0
+    }
   }
 ]
