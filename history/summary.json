@@ -29,17 +29,17 @@
     "slug": "d-party-chrome",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 175,
-    "timeWeek": 182,
-    "timeMonth": 184,
+    "timeDay": 163,
+    "timeWeek": 178,
+    "timeMonth": 183,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 11
     }
   },
   {
