@@ -25,9 +25,9 @@
     "url": "https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc",
     "icon": "https://icons.duckduckgo.com/ip3/chrome.google.com.ico",
     "slug": "d-party-chrome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 251,
     "timeMonth": 255,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 0
+    }
   },
   {
     "name": "dアニメストア",
@@ -46,12 +48,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.27%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.75%",
     "time": 1169,
     "timeDay": 1169,
-    "timeWeek": 1208,
+    "timeWeek": 1250,
     "timeMonth": 1129,
     "timeYear": 1158,
     "dailyMinutesDown": {
