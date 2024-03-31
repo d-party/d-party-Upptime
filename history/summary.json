@@ -4,19 +4,19 @@
     "url": "https://d-party.net",
     "icon": "https://icons.duckduckgo.com/ip3/d-party.net.ico",
     "slug": "d-party",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 858,
-    "timeWeek": 934,
-    "timeMonth": 869,
-    "timeYear": 823,
+    "time": 853,
+    "timeDay": 737,
+    "timeWeek": 894,
+    "timeMonth": 861,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2024-03-31": 0
+      "2024-03-31": 12
     }
   },
   {
@@ -28,7 +28,7 @@
     "uptime": "95.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.95%",
+    "uptimeMonth": "49.98%",
     "uptimeYear": "91.22%",
     "time": 229,
     "timeDay": 628,
