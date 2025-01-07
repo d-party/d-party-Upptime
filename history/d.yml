@@ -1,7 +1,7 @@
 url: https://animestore.docomo.ne.jp/animestore/tp_pc
-status: up
-code: 200
-responseTime: 1485
-lastUpdated: 2025-01-06T23:14:14.871Z
+status: down
+code: 503
+responseTime: 845
+lastUpdated: 2025-01-07T17:06:48.563Z
 startTime: 2022-06-08T22:09:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
