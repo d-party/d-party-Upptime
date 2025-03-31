@@ -4,7 +4,7 @@
     "url": "https://d-party.net",
     "icon": "https://icons.duckduckgo.com/ip3/d-party.net.ico",
     "slug": "d-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,8 +14,10 @@
     "timeDay": 946,
     "timeWeek": 950,
     "timeMonth": 861,
-    "timeYear": 864,
-    "dailyMinutesDown": {}
+    "timeYear": 865,
+    "dailyMinutesDown": {
+      "2025-03-31": 0
+    }
   },
   {
     "name": "d-party - Chrome ウェブストア",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chrome.google.com.ico",
     "slug": "d-party-chrome",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
