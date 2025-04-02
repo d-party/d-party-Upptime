@@ -6,15 +6,15 @@
     "slug": "d-party",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "89.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
-    "time": 860,
-    "timeDay": 1036,
-    "timeWeek": 958,
-    "timeMonth": 865,
-    "timeYear": 866,
+    "time": 859,
+    "timeDay": 740,
+    "timeWeek": 894,
+    "timeMonth": 855,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2025-03-31": 148
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 461,
-    "timeDay": 246,
-    "timeWeek": 294,
-    "timeMonth": 307,
-    "timeYear": 499,
+    "timeDay": 417,
+    "timeWeek": 314,
+    "timeMonth": 310,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2024-07-24": 28
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1235,
-    "timeDay": 1335,
-    "timeWeek": 1273,
-    "timeMonth": 1184,
-    "timeYear": 1246,
+    "timeDay": 1140,
+    "timeWeek": 1242,
+    "timeMonth": 1182,
+    "timeYear": 1245,
     "dailyMinutesDown": {
       "2025-01-07": 141,
       "2024-10-29": 323,
