@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 869,
-    "timeDay": 635,
-    "timeWeek": 958,
-    "timeMonth": 913,
+    "timeDay": 825,
+    "timeWeek": 914,
+    "timeMonth": 910,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2025-03-31": 148
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 466,
-    "timeDay": 281,
-    "timeWeek": 354,
-    "timeMonth": 330,
-    "timeYear": 413,
-    "dailyMinutesDown": {
-      "2024-07-24": 28
-    }
+    "timeDay": 225,
+    "timeWeek": 342,
+    "timeMonth": 325,
+    "timeYear": 412,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dアニメストア",
@@ -50,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1214,
-    "timeDay": 1010,
-    "timeWeek": 1159,
-    "timeMonth": 1151,
+    "time": 1212,
+    "timeDay": 978,
+    "timeWeek": 1107,
+    "timeMonth": 1150,
     "timeYear": 1195,
     "dailyMinutesDown": {
       "2025-01-07": 141,
