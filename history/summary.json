@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 878,
-    "timeDay": 896,
-    "timeWeek": 782,
-    "timeMonth": 862,
-    "timeYear": 876,
+    "timeDay": 1028,
+    "timeWeek": 784,
+    "timeMonth": 868,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2025-03-31": 148
     }
@@ -26,18 +26,16 @@
     "slug": "d-party-chrome",
     "status": "up",
     "uptime": "97.49%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 331,
-    "timeWeek": 330,
-    "timeMonth": 308,
+    "time": 354,
+    "timeDay": 377,
+    "timeWeek": 335,
+    "timeMonth": 311,
     "timeYear": 323,
-    "dailyMinutesDown": {
-      "2025-12-05": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dアニメストア",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1162,
-    "timeDay": 959,
-    "timeWeek": 1000,
-    "timeMonth": 1033,
-    "timeYear": 1124,
+    "time": 1163,
+    "timeDay": 1485,
+    "timeWeek": 1002,
+    "timeMonth": 1050,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2025-01-07": 141
     }
