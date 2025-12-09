@@ -24,19 +24,19 @@
     "url": "https://chrome.google.com/webstore/detail/d-party/ibmlcfpijglpfbfgaleaeooebgdgcbpc",
     "icon": "https://icons.duckduckgo.com/ip3/chrome.google.com.ico",
     "slug": "d-party-chrome",
-    "status": "down",
+    "status": "up",
     "uptime": "97.49%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 352,
-    "timeWeek": 324,
-    "timeMonth": 316,
+    "timeDay": 327,
+    "timeWeek": 319,
+    "timeMonth": 315,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 22
     }
   },
   {
