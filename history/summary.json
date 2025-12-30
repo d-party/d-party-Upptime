@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-party.net.ico",
     "slug": "d-party",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 877,
-    "timeDay": 869,
-    "timeWeek": 772,
-    "timeMonth": 869,
+    "timeDay": 865,
+    "timeWeek": 757,
+    "timeMonth": 877,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2025-03-31": 148
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 281,
-    "timeWeek": 311,
-    "timeMonth": 308,
-    "timeYear": 323,
+    "timeDay": 216,
+    "timeWeek": 293,
+    "timeMonth": 297,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-12-09": 22
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1152,
-    "timeDay": 906,
-    "timeWeek": 963,
-    "timeMonth": 1075,
-    "timeYear": 1121,
+    "time": 1151,
+    "timeDay": 884,
+    "timeWeek": 946,
+    "timeMonth": 1082,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2025-01-07": 141
     }
