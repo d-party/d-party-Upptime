@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 878,
-    "timeDay": 773,
-    "timeWeek": 838,
+    "time": 877,
+    "timeDay": 600,
+    "timeWeek": 836,
     "timeMonth": 878,
-    "timeYear": 880,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2025-03-31": 148
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chrome.google.com.ico",
     "slug": "d-party-chrome",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 346,
-    "timeWeek": 390,
+    "time": 327,
+    "timeDay": 235,
+    "timeWeek": 371,
     "timeMonth": 329,
-    "timeYear": 325,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-12-09": 22
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1126,
-    "timeDay": 923,
-    "timeWeek": 1070,
-    "timeMonth": 1046,
-    "timeYear": 1090,
+    "time": 1124,
+    "timeDay": 680,
+    "timeWeek": 1040,
+    "timeMonth": 1035,
+    "timeYear": 1088,
     "dailyMinutesDown": {}
   }
 ]
