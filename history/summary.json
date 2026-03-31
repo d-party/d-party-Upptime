@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 874,
-    "timeDay": 928,
-    "timeWeek": 800,
-    "timeMonth": 824,
-    "timeYear": 875,
-    "dailyMinutesDown": {
-      "2025-03-31": 148
-    }
+    "time": 876,
+    "timeDay": 2246,
+    "timeWeek": 1037,
+    "timeMonth": 869,
+    "timeYear": 878,
+    "dailyMinutesDown": {}
   },
   {
     "name": "d-party - Chrome ウェブストア",
@@ -30,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 199,
-    "timeWeek": 288,
+    "time": 320,
+    "timeDay": 313,
+    "timeWeek": 297,
     "timeMonth": 287,
     "timeYear": 321,
     "dailyMinutesDown": {
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1108,
-    "timeDay": 1132,
-    "timeWeek": 949,
-    "timeMonth": 978,
+    "timeDay": 1255,
+    "timeWeek": 1032,
+    "timeMonth": 987,
     "timeYear": 1070,
     "dailyMinutesDown": {}
   }
