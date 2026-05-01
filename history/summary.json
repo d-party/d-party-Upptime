@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-party.net.ico",
     "slug": "d-party",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "48.81%",
+    "uptimeWeek": "92.69%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "99.86%",
     "time": 874,
-    "timeDay": 998,
-    "timeWeek": 926,
-    "timeMonth": 861,
-    "timeYear": 874,
+    "timeDay": 0,
+    "timeWeek": 920,
+    "timeMonth": 822,
+    "timeYear": 873,
     "dailyMinutesDown": {
-      "2026-04-30": 0
+      "2026-05-01": 215,
+      "2026-04-30": 523
     }
   },
   {
@@ -31,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 320,
-    "timeWeek": 286,
-    "timeMonth": 340,
-    "timeYear": 323,
+    "timeDay": 287,
+    "timeWeek": 301,
+    "timeMonth": 341,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-12-09": 22
     }
@@ -51,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1101,
-    "timeDay": 1059,
-    "timeWeek": 1079,
-    "timeMonth": 1063,
+    "timeDay": 917,
+    "timeWeek": 1060,
+    "timeMonth": 1064,
     "timeYear": 1067,
     "dailyMinutesDown": {}
   }
