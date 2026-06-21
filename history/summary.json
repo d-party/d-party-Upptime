@@ -4,7 +4,7 @@
     "url": "https://d-party.net",
     "icon": "https://icons.duckduckgo.com/ip3/d-party.net.ico",
     "slug": "d-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -17,7 +17,8 @@
     "timeYear": 877,
     "dailyMinutesDown": {
       "2026-05-01": 1060,
-      "2026-04-30": 523
+      "2026-04-30": 523,
+      "2026-06-21": 0
     }
   },
   {
