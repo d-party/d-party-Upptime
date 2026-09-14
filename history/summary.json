@@ -46,17 +46,19 @@
     "url": "https://animestore.docomo.ne.jp/animestore/tp_pc",
     "icon": "https://icons.duckduckgo.com/ip3/animestore.docomo.ne.jp.ico",
     "slug": "d",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1060,
-    "timeDay": 976,
-    "timeWeek": 942,
-    "timeMonth": 1004,
-    "timeYear": 1052,
-    "dailyMinutesDown": {}
+    "time": 1058,
+    "timeDay": 782,
+    "timeWeek": 898,
+    "timeMonth": 991,
+    "timeYear": 1051,
+    "dailyMinutesDown": {
+      "2026-09-14": 0
+    }
   }
 ]
