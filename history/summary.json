@@ -4,21 +4,22 @@
     "url": "https://d-party.net",
     "icon": "https://icons.duckduckgo.com/ip3/d-party.net.ico",
     "slug": "d-party",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
-    "time": 804,
-    "timeDay": 349,
-    "timeWeek": 499,
-    "timeMonth": 643,
-    "timeYear": 777,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "82.01%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.62%",
+    "time": 803,
+    "timeDay": 351,
+    "timeWeek": 506,
+    "timeMonth": 644,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2026-05-01": 1060,
       "2026-04-30": 523,
-      "2026-06-21": 169
+      "2026-06-21": 169,
+      "2026-11-10": 259
     }
   },
   {
@@ -33,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 165,
-    "timeWeek": 285,
-    "timeMonth": 352,
+    "timeDay": 358,
+    "timeWeek": 310,
+    "timeMonth": 349,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-12-09": 22
@@ -52,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1044,
-    "timeDay": 1099,
-    "timeWeek": 892,
-    "timeMonth": 924,
+    "time": 1043,
+    "timeDay": 839,
+    "timeWeek": 863,
+    "timeMonth": 917,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2026-09-14": 174
